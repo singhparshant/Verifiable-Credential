@@ -11,7 +11,7 @@ export default cors(async function handler(
     const body = req.body
     console.log("body: ", body);
     // Convert JSON data to string
-    let dataString = JSON.stringify(body.credential);
+    let dataString = JSON.stringify(body);
     let qr_png = qr.image(dataString, { type: "png" });
 
     // Set the response headers
