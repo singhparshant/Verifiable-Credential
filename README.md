@@ -7,7 +7,6 @@
 <br />
 <div align="center">
  
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">NEAR-LY COMMITTED</h3>
 
@@ -23,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/screenshot.png" alt="Logo" width="200" height="200">
+<img src="images/LaptopAdminPanel.png" alt="Logo" >
 
 Traditional paper-based certificates are susceptible to loss, damage, and forgery, and verifying their authenticity often involves time-consuming, manual processes. Embracing NEAR BOS, we're creating a digital and tamper-proof solution for digital certificates that eliminates risks of loss, damage, or forgery and automates verification. Institutions save money and time by issuing verifiable credentials efficiently. Additionally, fraud gets prevented and friction gets reduced by a significant margin.
 
